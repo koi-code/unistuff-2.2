@@ -14,6 +14,12 @@
 
 */
 
+/*
+
+Отчет: https://docs.google.com/document/d/19cQs-aKAwjuZ5MeU0GOzp1yZErqC-wm1BoVlWcEjl9A/edit?usp=sharing
+
+*/
+
 Console.Write("Введите символ: ");
         
 string? input = Console.ReadLine();
