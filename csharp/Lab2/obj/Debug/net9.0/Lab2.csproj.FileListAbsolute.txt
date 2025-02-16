@@ -1,0 +1,15 @@
+D:\Git\unistuff-2.2\csharp\Lab2\bin\Debug\net9.0\Lab2.exe
+D:\Git\unistuff-2.2\csharp\Lab2\bin\Debug\net9.0\Lab2.deps.json
+D:\Git\unistuff-2.2\csharp\Lab2\bin\Debug\net9.0\Lab2.runtimeconfig.json
+D:\Git\unistuff-2.2\csharp\Lab2\bin\Debug\net9.0\Lab2.dll
+D:\Git\unistuff-2.2\csharp\Lab2\bin\Debug\net9.0\Lab2.pdb
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfoInputs.cache
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.AssemblyInfo.cs
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.sourcelink.json
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.dll
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\refint\Lab2.dll
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.pdb
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\Lab2.genruntimeconfig.cache
+D:\Git\unistuff-2.2\csharp\Lab2\obj\Debug\net9.0\ref\Lab2.dll
