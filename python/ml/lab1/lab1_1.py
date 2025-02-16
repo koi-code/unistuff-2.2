@@ -67,6 +67,15 @@ print("СКО до стандартизации:", std_before)
 print("Мат. ожидание после стандартизации:", mean_after)
 print("СКО после стандартизации:", std_after)
 
+for i, feature in enumerate(features):
+    print("{:<30} {:<15.2f} {:<15.2f} {:<15.2f} {:<15.2f}".format(
+        feature, 
+        mean_before[i], 
+        std_before[i],
+        mean_after[i],
+        std_after[i]
+    ))
+
 # --------------------- 5. Приведение к диапазону ---------------------
 # MinMaxScaler
 min_max_scaler = preprocessing.MinMaxScaler().fit(data)
