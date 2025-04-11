@@ -1,0 +1,15 @@
+D:\Git\unistuff-2.2\csharp\Lab3\bin\Debug\net9.0\Lab3.exe
+D:\Git\unistuff-2.2\csharp\Lab3\bin\Debug\net9.0\Lab3.deps.json
+D:\Git\unistuff-2.2\csharp\Lab3\bin\Debug\net9.0\Lab3.runtimeconfig.json
+D:\Git\unistuff-2.2\csharp\Lab3\bin\Debug\net9.0\Lab3.dll
+D:\Git\unistuff-2.2\csharp\Lab3\bin\Debug\net9.0\Lab3.pdb
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.AssemblyInfoInputs.cache
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.AssemblyInfo.cs
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.sourcelink.json
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.dll
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\refint\Lab3.dll
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.pdb
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\Lab3.genruntimeconfig.cache
+D:\Git\unistuff-2.2\csharp\Lab3\obj\Debug\net9.0\ref\Lab3.dll

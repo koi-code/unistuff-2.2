@@ -2,15 +2,8 @@
 
 public class Polynomial
 {
-    /* 
-        Коэффициенты многочлена, где:
-        coeffs[0] - коэффициент при x^0 (свободный член)
-        coeffs[1] - коэффициент при x^1
-        и так далее 
-    */
     public double[] coeffs;
 
-    // Пример: new Polynomial(1, 2, 3) создаст многочлен 1 + 2x + 3x^2
     public Polynomial(params double[] coefficients)
     {
         coeffs = coefficients;
