@@ -1,0 +1,15 @@
+D:\Git\unistuff-2.2\csharp\BitAnimation\bin\Debug\net9.0\BitAnimation.exe
+D:\Git\unistuff-2.2\csharp\BitAnimation\bin\Debug\net9.0\BitAnimation.deps.json
+D:\Git\unistuff-2.2\csharp\BitAnimation\bin\Debug\net9.0\BitAnimation.runtimeconfig.json
+D:\Git\unistuff-2.2\csharp\BitAnimation\bin\Debug\net9.0\BitAnimation.dll
+D:\Git\unistuff-2.2\csharp\BitAnimation\bin\Debug\net9.0\BitAnimation.pdb
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.AssemblyInfoInputs.cache
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.AssemblyInfo.cs
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.csproj.CoreCompileInputs.cache
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.sourcelink.json
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.dll
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\refint\BitAnimation.dll
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.pdb
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\BitAnimation.genruntimeconfig.cache
+D:\Git\unistuff-2.2\csharp\BitAnimation\obj\Debug\net9.0\ref\BitAnimation.dll

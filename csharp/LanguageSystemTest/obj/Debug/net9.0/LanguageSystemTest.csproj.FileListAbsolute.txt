@@ -1,0 +1,15 @@
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\bin\Debug\net9.0\LanguageSystemTest.exe
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\bin\Debug\net9.0\LanguageSystemTest.deps.json
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\bin\Debug\net9.0\LanguageSystemTest.runtimeconfig.json
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\bin\Debug\net9.0\LanguageSystemTest.dll
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\bin\Debug\net9.0\LanguageSystemTest.pdb
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.AssemblyInfoInputs.cache
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.AssemblyInfo.cs
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.csproj.CoreCompileInputs.cache
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.sourcelink.json
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.dll
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\refint\LanguageSystemTest.dll
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.pdb
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\LanguageSystemTest.genruntimeconfig.cache
+D:\Git\unistuff-2.2\csharp\LanguageSystemTest\obj\Debug\net9.0\ref\LanguageSystemTest.dll
