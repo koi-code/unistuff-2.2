@@ -31,7 +31,7 @@ int height = int.Parse(Console.ReadLine() ?? "1");
 
 for (int row = 1; row <= height; row++)
 {
-    
+
     for (int space = 0; space < height - row; space++)
     {
         Console.Write(' ');
