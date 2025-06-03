@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn import preprocessing
-from sklearn.preprocessing import KBinsDiscretizer, QuantileTransformer, PowerTransformer
+from sklearn import preprocessing # type: ignore
+from sklearn.preprocessing import KBinsDiscretizer, QuantileTransformer, PowerTransformer # type: ignore
 
 # --------------------- 1. Загрузка данных и предобработка ---------------------
 # Загрузка датасета
